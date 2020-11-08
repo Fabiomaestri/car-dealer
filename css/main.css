@@ -83,10 +83,10 @@ color: var(--mainBlue);
 .height-max{
   min-height: calc(100vh - 76px);
   background: linear-gradient(rgba(0, 17, 255, 0.1), rgba(0, 17, 255, 0.1)), url('../img/headerBcg.jpeg')center / cover fixed no-repeat;
-  /* animation-name: zoom;
+  animation-name: zoom;
   animation-duration: 20s;
   animation-delay: 5s;
-  animation-iteration-count: infinite; */
+  animation-iteration-count: infinite;
 }
 @keyframes zoom{
   0%{
